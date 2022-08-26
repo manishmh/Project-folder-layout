@@ -35,6 +35,8 @@ chmod +x make.py
 - portfolio : name of the project
 - about, works, blog, contact : name of the pages you have in templates file for the website.
 </br></br>
+
+
 **You can add many files and no files, just add . at the end of folder name and it will create only index file.** <br/>
 ![Screenshot from 2022-08-26 20-56-33](https://user-images.githubusercontent.com/84000636/186939766-f9defc1a-343b-44bc-a3a6-78789ef83090.png)</br>
 
