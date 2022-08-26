@@ -1,0 +1,17 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+main {
+	--primary-font-family: ;
+	--primary-font-color: ;
+	--primary-bg-color: ;
+	--small-font-weight: ;
+	--medium-font-weigth: ;
+	--large-font-weight: ;
+	--primary-font-size: ;
+}

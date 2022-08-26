@@ -1,0 +1,9 @@
+package $folder_name;
+
+public class $file_name
+{
+	public static void main(String[] args)
+	{
+
+	}
+}
