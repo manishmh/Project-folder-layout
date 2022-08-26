@@ -33,7 +33,7 @@ chmod +x make.py
 - make.py : python file which runs the code
 - website : Project type
 - portfolio : name of the project
-- about, works, blog, contact : name of the pages you have in templates file for the website. 
+- about, works, blog, contact : name of the pages you have in templates file for the website.
 </br></br>
 **You can add many files and no files, just add . at the end of folder name and it will create only index file.** <br/>
 ![Screenshot from 2022-08-26 20-56-33](https://user-images.githubusercontent.com/84000636/186939766-f9defc1a-343b-44bc-a3a6-78789ef83090.png)</br>
@@ -46,6 +46,10 @@ It will automatically open sublime code with the project. but if you prefer vsco
 <br/></br>
 **This programme is mostly modified for web project.</br>
 you can create python project and replacing website with python and similier with java C C++**</br> <br/>
+![Screenshot from 2022-08-26 21-05-32](https://user-images.githubusercontent.com/84000636/186961748-6e589e3b-dac1-4f00-97fa-c5f7bc5f1c9c.png)
+</br>
+![Screenshot from 2022-08-26 21-05-51](https://user-images.githubusercontent.com/84000636/186961954-2f575340-161d-4e72-8700-1fcd2e27bfe5.png)
+
 
 
 
