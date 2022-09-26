@@ -4,6 +4,9 @@
 
 This programme let's you run command anywhere in your local system to create layout of folder and files<br/> of your project with boiler plate of respective of languages. <br/>
 <br/>
+EXAMPLE:<br/>
+You want to create website and you start coding. first thing you do is make folder and files necessesary for the project. 
+This is where is programme will help you, and create folder layouts and pre-written basic codes to start with. <br/>
 **Java,  C++,  C,  Html,  CSS,  Python**<br/>
 <br/>
 ## How to set up and use this programme.<br/>
