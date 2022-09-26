@@ -1,5 +1,7 @@
 # Project-folder-layout
 
+## This programme currently works on linux devices only.
+
 This programme let's you run command anywhere in your local system to create layout of folder and files<br/> of your project with boiler plate of respective of languages. <br/>
 <br/>
 **Java,  C++,  C,  Html,  CSS,  Python**<br/>
