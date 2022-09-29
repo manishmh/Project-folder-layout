@@ -17,13 +17,14 @@ Download Python file and set it's path to .bashrc <br/>
 <br/>
 open bashrc file
 ```vim
-vim~/.bashrc
+vim ~/.bashrc
 ```
 Add this code and path to the flle your downloaded
 ```vim
-export PATH="$PATH:$HOME/path to the folder"
+export PATH="$PATH:$HOME/user/bin"
 ```
 **step 2:**<br/>
+Put your username in user space. </br>
 open the pyhton file in any editor and edit the path of the boiler plate.<br/>
 Add the path to the boiler plate in line 24 in path varible
 <br/><br/>
