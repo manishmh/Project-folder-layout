@@ -7,6 +7,7 @@ This programme let's you run command anywhere in your local system to create lay
 EXAMPLE:<br/>
 You want to create website and you start coding. first thing you do is make folder and files necessesary for the project. 
 This is where is programme will help you, and create folder layouts and pre-written basic codes to start with. <br/>
+It will create folder layout for the project you will be building under pre-designed codes.</br>
 **Java,  C++,  C,  Html,  CSS,  Python**<br/>
 <br/>
 ## How to set up and use this programme.<br/>
