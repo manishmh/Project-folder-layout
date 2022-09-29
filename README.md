@@ -32,7 +32,9 @@ open the pyhton file in any editor and edit the path of the boiler plate.<br/>
 Add the path to the boiler plate in line 24 in path varible
 <br/><br/>
 **step 3:**<br/>
-Change the access mode of make.py python file<br/>
+Change the access mode of make.py python file, so that it can be executed from anywhere in the system<br/>
+</br>
+**Windows user add the path to the environment varible so the file can execute globally**</br>
 ```vim
 chmod +x make.py
 ```
