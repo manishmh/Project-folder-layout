@@ -2,7 +2,7 @@
 
 ## This programme currently works on linux devices only.
 
-This programme let's you run command anywhere in your local system to create layout of folder and files<br/> of your project with boiler plate of respective of languages. <br/>
+This programme let's you run command anywhere in your local system to create layout of folder and files<br/> of your project with boiler plate of respective languages. <br/>
 <br/>
 EXAMPLE:<br/>
 You want to create website and you start coding. first thing you do is make folder and files necessesary for the project. 
