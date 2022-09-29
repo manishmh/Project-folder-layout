@@ -14,7 +14,10 @@ It will create folder layout for the project you will be building under pre-desi
 
 **Step 1:** <br/>
 Download Python file and set it's path to .bashrc <br/>
+Make a folder and name it bin in user folder and put the downloaded file inside the bin folder.
 <br/>
+<br/>
+if you want to have your own path and save file anywhere you have to change the path in line 24 accordingly where you are saving the code.</br>
 open bashrc file
 ```vim
 vim ~/.bashrc
